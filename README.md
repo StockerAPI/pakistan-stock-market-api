@@ -46,7 +46,7 @@ This repository is designed to make Pakistan market API coverage easier to disco
 
 ## Links
 
-- Website: https://kun.pro/markets/pakistan-stock-market-api
+- Website: https://kun.pro/stocks-en.html
 - Docs: https://kun.pro/docs-en.html
 - Main site: https://kun.pro
 
